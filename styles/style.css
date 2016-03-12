@@ -28,4 +28,7 @@ background: rgb(198,198,198);
 ul {
 	font-size: 30px;
 	color: black;
+	list-style-position: inside;
+
 }
+
